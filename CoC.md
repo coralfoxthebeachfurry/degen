@@ -10,7 +10,7 @@ Public drama, back-and-forth hostility, or call-out posts are not allowed in any
 
 ## 3. NSFW Policy
 **No NSFW content** (including text, images, links, or audio).  
-Posting NSFW in non-NSFW channels results in:
+Posting NSFW in any channels results in:
 - 1st offense → Timeout + warning
 - 2nd offense → 7-day mute or kick
 - 3rd offense → Ban
