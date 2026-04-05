@@ -52,7 +52,7 @@ This helps moderators enforce rules fairly and ensures all members can understan
 
 ## 9. Reporting Violations
 If you see a rule being broken, do not engage. Instead:
-- Ping a moderator or use `?report` (if available)
+- Ping a moderator or open a ticket in #help-and-reports
 - Provide screenshots if needed
 
 **Retaliating or "backseat moderating" is discouraged** — leave it to the mod team.
