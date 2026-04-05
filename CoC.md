@@ -1,5 +1,8 @@
 # Code of Conduct (CoC)
 
+*Effective Apr 5, 2026*
+*Previous versions of the rules and CoC are now void.*
+
 ## 1. Zero-Tolerance Content
 **Absolutely no CSAM (Child Sexual Abuse Material) or gore.**  
 Any violation will be immediately reported to Discord Trust & Safety, and the offending member will be permanently banned without warning.
@@ -50,11 +53,11 @@ If someone asks you to stop DMing them, **stop immediately**. Violations may lea
 The main server language is **English** (unless otherwise specified in a dedicated language channel).  
 This helps moderators enforce rules fairly and ensures all members can understand warnings and announcements.
 
-## 9. Links and files
-If you are cought sending malicious files, links or embeds, penalty is:
-First offend= Warning from a mod
-Second offend= Temp ban
-third offend= Perma banned
+## 9. Malicious links and files
+If you are cought sending malicious files, links or harmful embeds, penalty is:
+- First offense = Warning from a mod
+- Second offense = Temp ban
+- Third offense = Perma banned
 
 ## 10. Reporting Violations
 If you see a rule being broken, do not engage. Instead:
