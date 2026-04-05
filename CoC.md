@@ -50,14 +50,20 @@ If someone asks you to stop DMing them, **stop immediately**. Violations may lea
 The main server language is **English** (unless otherwise specified in a dedicated language channel).  
 This helps moderators enforce rules fairly and ensures all members can understand warnings and announcements.
 
-## 9. Reporting Violations
+## 9. Links and files
+If you are cought sending malicious files, links or embeds, penalty is:
+First offend= Warning from a mod
+Second offend= Temp ban
+third offend= Perma banned
+
+## 10. Reporting Violations
 If you see a rule being broken, do not engage. Instead:
 - Ping a moderator or open a ticket in #help-and-reports
 - Provide screenshots if needed
 
 **Retaliating or "backseat moderating" is discouraged** — leave it to the mod team.
 
-## 10. Right to Update
+## 11. Right to Update
 This Code of Conduct may be updated as the community grows.  
 Significant changes will be announced in `#announcements`. Continued participation in the server implies acceptance of the latest version.
 
