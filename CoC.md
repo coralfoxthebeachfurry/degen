@@ -9,7 +9,7 @@ If you are having a heated argument with someone, **take it to DMs**.
 Public drama, back-and-forth hostility, or call-out posts are not allowed in any channel. Moderators may mute or kick participants who refuse to de-escalate.
 
 ## 3. NSFW Policy
-**No NSFW content** (including text, images, links, or audio) outside of explicitly marked NSFW channels.  
+**No NSFW content** (including text, images, links, or audio).  
 Posting NSFW in non-NSFW channels results in:
 - 1st offense → Timeout + warning
 - 2nd offense → 7-day mute or kick
