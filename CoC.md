@@ -73,5 +73,4 @@ Significant changes will be announced in `#announcements`. Continued participati
 ---
 
 **By remaining in this server, you agree to follow this Code of Conduct. Ignorance of the rules is not an excuse for violations.**
-**Note: effective from Apr 5 2026. Old rules and CoC is voided.**
 
