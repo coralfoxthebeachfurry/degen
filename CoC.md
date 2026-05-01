@@ -59,14 +59,31 @@ If you are cought sending malicious files, links or harmful embeds, penalty is:
 - Second offense = Temp ban
 - Third offense = Perma banned
 
-## 10. Reporting Violations
+# 10. No "Looking for Partner" Posts
+No dating, matchmaking, or "looking for" posts.
+You may not post messages seeking a romantic or sexual partner. This includes:
+- "Looking for bf/gf/partner/date"
+- "Anyone single?" / "DM me if you're lonely"
+- "Need a Valentine" / "Send a pic if you're cute"
+
+This applies to all members (minors AND adults). Such posts attract predatory behavior in DMs. If you want to date, do it outside this server.
+
+# 11. DM Safety Policy
+## DM rules – Adults (18+) may not:
+ - DM any minor first unless it's about an ongoing, public, on-topic conversation (e.g., helping with a game in a public channel)
+ - Ask a minor for photos, voice/video calls, personal info (real name, school, city, phone number), or to move to another app (Snapchat, Instagram, WhatsApp, etc.)
+ - Reply to any minor's expression of loneliness, boredom, or "looking for friends"
+
+ For minors: If an adult DMs you inappropriately, screenshot and report to a moderator immediately. You will not be punished for reporting.
+
+## 12. Reporting Violations
 If you see a rule being broken, do not engage. Instead:
 - Ping a moderator or open a ticket in #help-and-reports
 - Provide screenshots if needed
 
 **Retaliating or "backseat moderating" is discouraged** — leave it to the mod team.
 
-## 11. Right to Update
+## 13. Right to Update
 This Code of Conduct may be updated as the community grows.  
 Significant changes will be announced in `#announcements`. Continued participation in the server implies acceptance of the latest version.
 
