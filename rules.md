@@ -7,5 +7,8 @@ RULES:
 6. Keep channels topic on track. (Memes in memes, arts in arts, etc.) Off-topic posts may be deleted without warning.
 7. No unsolicited DMs for harassment, advertising, or "self-promo spam". If someone asks you to stop DMing them, stop immediately.
 8. If you are caught sending any links or files that contains viruses, anything harmful, or anything else for that matter: first offense = warning, second = temp ban, third = Perma ban.
+9. No "looking for partner" posts. No dating, matchmaking, or "looking for bf/gf/partner" posts, ever.
+10. DM safety, Adults cannot DM minors first without a public, on-topic reason.
 Code of conduct is hosted [here](https://github.com/coralfoxthebeachfurry/degen/blob/main/CoC.md)
+And rules are hosted [here](https://github.com/coralfoxthebeachfurry/degen/blob/main/rules.md)
 That's all, for now. Subject to change as the server grows.
